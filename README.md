@@ -1,19 +1,12 @@
-Python Course Project 
-Team No.7 : Use of Hybrid Binary Optimization Algorithms for Binary Image Classification
-
-Team Members:
-24CSB1A04 : Aditya Shrivastava
-24CSB1A03 : Aditya Madhu
-24CSB1A75 : Veena Sohan Durga Balaji
-
+# Python Course Project 
+# Team No.7 : Use of Hybrid Binary Optimization Algorithms for Binary Image Classification
 Datasets Used:
 LCS25000
 Plants-Type Datasets
-
 Steps to implement:
 Before running any code the default structure of the directory looks like:
 /Code Folder
-  Code.py (contains the main code of the project) #Shown as code.py in video demonstration
+  Code.py (contains the main code of the project) Shown as code.py in video demonstration
   requirements.txt (Contains all the packages required for the project)
 /Readme.txt
 /PPT for the project (.pptx format)
