@@ -1,23 +1,18 @@
-# Python Course Project 
-# Team No.7 : Use of Hybrid Binary Optimization Algorithms for Binary Image Classification
-Datasets Used:
-LCS25000
-Plants-Type Datasets
-Steps to implement:
+# Use of Hybrid Binary Optimization Algorithms for Binary Image Classification
+# Datasets Used:
+1. [**LCS25000**](https://www.kaggle.com/datasets/javaidahmadwani/lc25000/data)
+2. [**Plants-Type Datasets**](https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets)
+# Steps to implement:
 Before running any code the default structure of the directory looks like:
-/Code Folder
-  Code.py (contains the main code of the project) Shown as code.py in video demonstration
-  requirements.txt (Contains all the packages required for the project)
-/Readme.txt
-/PPT for the project (.pptx format)
-/Video (.mp4 format)
-
+  1. *Code.py* (contains the main code of the project) Shown as code.py in video demonstration
+  2. *requirements.txt* (Contains all the packages required for the project)
+  3. *Readme.md*
 Follow the given steps to check the project output:
 
 Step 1: Downloading the datasets
 The datasets can be downloaded using the following links:
-1.LCS25000 : https://www.kaggle.com/datasets/javaidahmadwani/lc25000/data
-2.Plants type dataset : https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets
+1.[**LCS25000**](https://www.kaggle.com/datasets/javaidahmadwani/lc25000/data)
+2.[**Plants type dataset**](https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets)
 After downloading the datasets make sure you push them into the directory of the project.
 
 Step 2: Installing dependencies(Optional)
