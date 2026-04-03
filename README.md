@@ -18,23 +18,23 @@ After downloading the datasets make sure you push them into the directory of the
 Step 2: Installing dependencies(Optional)
 Open the directory of the folder in the terminal and run the command:
 
-pip install -r requirements.txt
+***pip install -r requirements.txt***
 
 Note : This step is optional because you need not install the dependencies if they are already installed in your system or 
 if you are running this code on online cloud platforms such as google colab where all the libraries are installed by default
 
-Step 3: Running Code.py file
+Step 3: Running *Code.py* file
 
 Code.py is the file consisting of the main code of the model which performs all the tasks.
 To run the file:
 Open the directory in Terminal
 Run the command:
 
-python Code.py "<Name_Of_Zip_File>.zip"
+***python Code.py "<Name_Of_Zip_File>.zip"***
 
-Ex: python Code.py "lc25000.zip"
-
+Ex: ***python Code.py "lc25000.zip"****  
 Once the code is run it performs the following tasks step-by-step
+
      Task 1: Extraction of zip-files : The code extracts the zip files present in the directory
 
      Task 2: Defining the CNN-Model  : The code next defines the CNN model whose description can be visible in the output log
@@ -57,6 +57,11 @@ Once the code is run it performs the following tasks step-by-step
                                        data
      Task 7: Saving The Final model  : At the end, the code saves the final model in another file added to the directory which can used in
                                        future to make predictions
+# Final Result  
+After performing 5-fold cross-validation : 
+1. [**LCS25000**](https://www.kaggle.com/datasets/javaidahmadwani/lc25000/data) : 99% accuracy  
+2. [**Plants-Type Datasets**](https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets) : 90% accuracy
+
 
 Note: To run another dataset for the code we recommend to delete/move all the auxiliary feature extractor/model files (.h5 , .pkl , etc.) 
       to prevent conflict with other dataset's feature files.
