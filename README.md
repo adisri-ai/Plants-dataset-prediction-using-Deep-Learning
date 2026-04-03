@@ -1,4 +1,4 @@
-# Use of Hybrid Binary Optimization Algorithms for Binary Image Classification
+# Project Overview
 # Datasets Used:
 1. [**LCS25000**](https://www.kaggle.com/datasets/javaidahmadwani/lc25000/data)
 2. [**Plants-Type Datasets**](https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets)
