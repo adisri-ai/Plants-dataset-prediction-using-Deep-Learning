@@ -1,4 +1,5 @@
 # Project Overview
+The project make use of hybrid binary optimization search Algorithms such as BEOSA to perform classification using ML and DL Algorithms. 
 # Datasets Used:
 1. [**LCS25000**](https://www.kaggle.com/datasets/javaidahmadwani/lc25000/data)
 2. [**Plants-Type Datasets**](https://www.kaggle.com/datasets/yudhaislamisulistya/plants-type-datasets)
